@@ -102,6 +102,10 @@ img:hover{
     transform: scale(1);
     border-radius: 5px;
 }
+
+#haryana{
+    margin-left: 750px;
+}
 .haryana{
     border-radius: 25px;
 }
