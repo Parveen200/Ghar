@@ -37,6 +37,7 @@ text-align: center;
 }
 .main{
     border-radius: 250px;
+    margin-left: 750px;
 }
 .menu-bar ul li a{
 
@@ -101,10 +102,6 @@ img:hover{
     transition: 0.3s;
     transform: scale(1);
     border-radius: 5px;
-}
-
-#haryana{
-    margin-left: 750px;
 }
 .haryana{
     border-radius: 25px;
